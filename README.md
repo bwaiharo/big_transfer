@@ -30,6 +30,8 @@ Paper https://arxiv.org/pdf/1912.11370.pdf
 # 3
 
    Write a 4 page (excluding figures) summary of the key points that need to be made so a non-expert can understand the differences between    GN, WS and BN. The top 3 comparisons will make it to my class notes with attribution. (30 points)
+   
+   Result: [Summary_3.pdf](summary_3.pdf)
     
 # 4
 
