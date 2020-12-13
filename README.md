@@ -7,7 +7,7 @@
 
 Forked Project https://github.com/google-research/big_transfer.git
 
-Reference paper https://arxiv.org/pdf/1912.11370.pdf
+Paper https://arxiv.org/pdf/1912.11370.pdf
 
 
 
@@ -20,6 +20,8 @@ Reference paper https://arxiv.org/pdf/1912.11370.pdf
 # 1
 
    Write a 2 page (excluding pictures) summary of what transfer learning (10 points)
+   
+   Result: [Summary_1.pdf](Summary_1.pdf)
     
 # 2
 
