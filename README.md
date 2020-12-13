@@ -21,7 +21,7 @@ Paper https://arxiv.org/pdf/1912.11370.pdf
 
    Write a 2 page (excluding pictures) summary of what transfer learning (10 points)
    
-   Result: [summary_1.pdf](Summary_1.pdf)
+   Result: [Summary_1.pdf](summary_1.pdf)
     
 # 2
 
