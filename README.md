@@ -41,6 +41,8 @@ Paper https://arxiv.org/pdf/1912.11370.pdf
 
    Explain all models that are used in producing performance results (eg RetinaNet) (10 points)
    
+   Result: [Summary_5.pdf](summary_5.pdf)
+   
 # Extra Points (20 points)
 
    Apply the Big Transfer technique from this repo in CIFAR10 downstream dataset for 1-10 examples per class (low-data regime). Match the      behavior of Fig 6 for one upstream dataset of your choice and ResNet50-x3 architecture (20 points).
