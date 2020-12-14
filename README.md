@@ -26,6 +26,8 @@ Paper https://arxiv.org/pdf/1912.11370.pdf
 # 2
 
    Write a 2 page (excluding pictures) summary of what architectural improvements, if any, the authors have assumed on top the ResNet-xyz      V1 architecture and why (20 points)
+   
+   Result: [Summary_2.pdf](summary_2.pdf)
     
 # 3
 
@@ -36,6 +38,8 @@ Paper https://arxiv.org/pdf/1912.11370.pdf
 # 4
 
    Write a 2 page (excluding figures) summary of MixUp regularization and how this may help (30 points).
+   
+   Result: [Summary_4.pdf](summary_4.pdf)
     
 # 5
 
